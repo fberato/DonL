@@ -16,6 +16,12 @@ flex-flow: wrap;
 }
 @media (max-width:768px) {
 .articles {
-    margin-top: 180px;
+    margin-top: 10px;
+}
+.title_blog {
+    margin-top: 190px;
+}
+.links .active {
+    color: black!important;
 }
 }
