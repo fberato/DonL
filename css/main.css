@@ -94,6 +94,9 @@ max-width: 64px;
 top: 7px;
 position: relative;
 }
+.links .active {
+	color: yellow!important;
+}
 @media (max-width:768px) {
   .genius {
   max-width: 55px;
