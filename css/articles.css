@@ -1,0 +1,18 @@
+.cart-img {
+max-width: 300px;
+}
+.content {
+max-width: 300px;
+background: var(--bs-purple);
+margin: 10px;
+}
+.center {
+display: flex;
+flex-flow: wrap;
+justify-content: center;
+}
+@media (max-width:768px) {
+.articles {
+    margin-top: 180px;
+}
+}
