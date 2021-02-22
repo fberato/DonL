@@ -169,6 +169,9 @@ transform: translateX(-100%);
 .effect-4:hover:before {
 transform: translateX(0);
 }
+.logo_img {
+	max-width: 100px;
+}
   @media (max-width:768px) {
 	.effect-3:before {
 	background: black;
