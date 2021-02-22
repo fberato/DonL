@@ -2,15 +2,14 @@
 color: coral;
 }
 .credits {
-	text-align: center;
-
+text-align: center;
 }
 .credits h1 {
-  position: absolute;
-  left: 0;
-  right: 0;
-  font-size: 14px;
+position: absolute;
+left: 0;
+right: 0;
+font-size: 14px;
 }
 .credits h1 a {
- color: white;
+color: white;
 }
