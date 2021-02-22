@@ -32,7 +32,7 @@ main {
 }
 main .column.left,
 main .column.right {
-  background: #fcfcfc;
+  background: #fcfcfc00;
   display: block;
   position: relative;
   font-size: 1rem;
