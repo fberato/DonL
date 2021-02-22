@@ -48,7 +48,7 @@ main .column.right {
       min-height: 100vh;
     }
     main .column.left {
-      position: fixed;  
+      position: absolute;  
     }
     main .column.right {
       margin-left: 50%;
