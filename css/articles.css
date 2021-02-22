@@ -9,7 +9,10 @@ margin: 10px;
 .center {
 display: flex;
 flex-flow: wrap;
-justify-content: center;
+
+}
+.articles {
+    background: black;
 }
 @media (max-width:768px) {
 .articles {
