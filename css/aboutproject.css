@@ -3,10 +3,30 @@
     margin: auto;
     position: relative;
     margin-top: 170px;
+
 }
+
 .import {
 position: relative;
 top: 150px;
+}
+.credits h1 {
+    position: absolute;
+    left: 0;
+    right: 0;
+    font-size: 14px;
+}
+.text p {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: normal;
+    letter-spacing: 1px;
+    text-shadow: -2px 0px 10px white;
+}
+.text h1 {
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    font-weight: revert;
+    letter-spacing: 10px;
 }
 
 .about-img {
