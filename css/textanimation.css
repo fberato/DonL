@@ -1,0 +1,50 @@
+/* Typewriter */
+.text_animation {
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); 
+}
+.typewriter {
+    width: 90%;
+    margin: auto;
+    margin-top: 0px;
+   }
+  /*  .typewritermob {
+    display: none;
+   } */
+   .typewritermob h1 {
+    font-size: 21px;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+   }
+   @media (max-width:768px) {
+     .typewritermob {
+     display: block;
+     position: relative;
+     top: 0px;
+     }
+   }
+   .typewriter h2 {
+    font-size: 16px;
+    color: black;
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: bold;
+   }
+   @media (max-width:768px) {
+     .typewriter h2 {
+     font-size: 1em;
+     color: black;
+     text-transform: uppercase;
+     text-align: center;
+     }
+     .typewriter {
+     display:none!important;
+     }
+   }
+   @keyframes caret {
+     50% {
+     border-color: transparent;
+     }
+   }
+   /* Typewriter End */
