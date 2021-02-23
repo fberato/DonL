@@ -1,6 +1,6 @@
 /* Typewriter */
 .text_animation {
-  background: violet;
+  background: yellow;
 }
 .typewriter {
     width: 90%;
@@ -26,10 +26,10 @@
    }
    .typewriter h2 {
     font-size: 16px;
-    color: white;
+    color: rgb(34, 32, 32);
     text-transform: uppercase;
     text-align: left;
-    font-weight: 200;
+    font-weight: 600;
    }
    @media (max-width:768px) {
      .typewriter h2 {
