@@ -1,57 +1,31 @@
-/* Embed google fonts for demo layout
------------------------------------------*/
-/* @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900'); */
-
-
-/* Main Page Layout 
--- NOTE: Just for the demo page, and not
-required for the video modal... Video Modal
-styles are down below --
------------------------------------------*/
-/* * {
-  box-sizing: border-box;
-}
-html {
-  background: #fcfcfc;
-} */
-/* @media (min-width: 641px) {
-  html {
-    background: #4b4b4b;
-  }
-} */
-/* body {
-  font-family: 'Source Sans Pro', sans-serif;
-} */
 .noscroll { 
-	overflow: hidden;
+overflow: hidden;
 }
-
-
 main {
-  font-size: 0;
+font-size: 0;
 }
 main .column.left,
 main .column.right {
-  background: #fcfcfc00;
-  display: block;
-  position: relative;
-  font-size: 1rem;
-  width: 100%;
-  min-height: 0;
-  vertical-align: top;
+background: #fcfcfc00;
+display: block;
+position: relative;
+font-size: 1rem;
+width: 100%;
+min-height: 0;
+vertical-align: top;
 }
 @media (min-width: 641px) {
     main .column.left,
     main .column.right {
-      display: inline-block;
-      width: 50%;
-      min-height: 100vh;
+    display: inline-block;
+    width: 50%;
+    min-height: 100vh;
     }
     main .column.left {
-      position: absolute;  
+    position: absolute;  
     }
     main .column.right {
-      margin-left: 50%;
+    margin-left: 50%;
     }
 }
 

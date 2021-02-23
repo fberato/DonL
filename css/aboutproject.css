@@ -1,13 +1,13 @@
 .import {
-    position: relative;
-    top: 150px;
+position: relative;
+top: 150px;
 }
 .credits h1 {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    font-size: 14px;
+position: absolute;
+left: 0;
+right: 0;
+bottom: 0;
+font-size: 14px;
 }
 @media(max-width:768px) {
 

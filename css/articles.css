@@ -12,16 +12,15 @@ flex-flow: wrap;
 
 }
 .articles {
-    background: black;
+background: black;
 }
 @media (max-width:768px) {
 .articles {
-    margin-top: 10px;
+margin-top: 10px;
 }
 .title_blog {
-    margin-top: 190px;
+margin-top: 190px;
 }
 .links .active {
-    color: black!important;
-}
+color: black!important;
 }
