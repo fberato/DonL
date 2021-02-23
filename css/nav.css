@@ -73,6 +73,7 @@ color: black!important;
 	}
     .icons {
     font-size: 36px;
+	text-align: center;
 	}
     ul li {
 	display: block;
@@ -111,6 +112,10 @@ color: black!important;
     max-width: 300px;
 	border: none; 
     margin: auto;
+	}
+	/* break */
+	.effect-4:before {
+	height: 0px!important;
 	}
 }
 
