@@ -10,13 +10,13 @@
   /*  .typewritermob {
     display: none;
    } */
-   .typewritermob h1 {
+/*    .typewritermob h1 {
     font-size: 21px;
-    color: black;
+    color: white;
     text-transform: uppercase;
     text-align: center;
     font-weight: bold;
-   }
+   } */
    @media (max-width:768px) {
      .typewritermob {
      display: block;
@@ -26,10 +26,10 @@
    }
    .typewriter h2 {
     font-size: 16px;
-    color: black;
+    color: white;
     text-transform: uppercase;
     text-align: left;
-    font-weight: bold;
+    font-weight: 200;
    }
    @media (max-width:768px) {
      .typewriter h2 {
