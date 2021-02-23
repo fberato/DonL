@@ -94,6 +94,7 @@ max-width: 64px;
 top: 7px;
 position: relative;
 }
+
 .links .active {
 	color: yellow!important;
 }
@@ -101,6 +102,9 @@ position: relative;
   .genius {
   max-width: 55px;
   }
+  .links .active {
+   color: #94947a!important;
+   }
 }
 
 
